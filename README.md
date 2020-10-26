@@ -19,7 +19,7 @@ Ground check with  tag, raycast and boxcast
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://github.com/rsaz/Unity2D-Player-Movement/blob/master/PlayerMovementScreen.PNG)
+![](https://github.com/rsaz/Unity2D-Ground-Check/blob/main/Ground%20Check.PNG)
 
 Project created to demonstrate the differents 2D player ground check strategies such as:
 - tag and layermask
